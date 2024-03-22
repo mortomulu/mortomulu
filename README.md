@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mortomulu</h1>
 <h3 align="center">🚀 Exploring the World of Code and Collaboration</h3>
+<h3 align="center">🌱 Always Learning, Always Growing</h3>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mortomulu&label=Profile%20views&color=0e75b6&style=flat" alt="kagchi" /> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
