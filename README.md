@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Morto's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortomulu&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)]
+![Morto's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortomulu&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)
 
 </div>
 
