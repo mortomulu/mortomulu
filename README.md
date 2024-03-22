@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mortomulu</h1>
+<img src="github1.png"> </img>
 <h3 align="center">🚀 Exploring the World of Code and Collaboration</h3>
 <h3 align="center">🌱 Always Learning, Always Growing</h3>
 
