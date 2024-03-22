@@ -9,10 +9,10 @@
 <div align="center">
 
 ![Morto's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortomulu&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mortomulu&show_icons=true&locale=en&layout=compact" alt="bayu1s" /></p>
 
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayu1s&show_icons=true&locale=en&layout=compact" alt="bayu1s" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
